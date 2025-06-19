@@ -1,4 +1,9 @@
 <html>
+    @import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 <head>
     <meta charset="UTF-8">
     <title>Contact Us - Provision Bookkeeping LLC</title>
